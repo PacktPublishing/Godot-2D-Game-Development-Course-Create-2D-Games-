@@ -1,0 +1,5 @@
+Godot Documentation: TileMap API
+https://docs.godotengine.org/en/stable/classes/class_tilemap.html
+
+Godot Documentation: TileData API
+https://docs.godotengine.org/en/stable/classes/class_tiledata.html#class-tiledata
